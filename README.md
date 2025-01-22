@@ -28,7 +28,7 @@ Recall: 93.1%
 
 ## Visualizations of model convergence
 
-These are available in the jupyter notebook as well
+*These are available in the jupyter notebook as well
 
 ![image](https://github.com/user-attachments/assets/afa10d39-4bd5-41d3-863d-0b0a0a8a4573)
 
